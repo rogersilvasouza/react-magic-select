@@ -1,0 +1,7 @@
+.container select {
+  width: 55px;
+  height: 35px;
+  border: 0;
+  border-radius: 0;
+  font-size: 16px;
+}
